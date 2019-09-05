@@ -17,5 +17,5 @@ div {
   transform: rotateZ(180deg);
 }
 #transformado {
-  transform: rotateZ(50deg);
+  transform: rotateZ(-50deg);
 }
