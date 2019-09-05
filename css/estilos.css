@@ -4,7 +4,9 @@ div {
     background-color: yellow;
     border: 1px solid black;
 }
-
+#caja {
+  transform: rotate(10deg);
+}
 #original {
   margin-top: 20px;
   margin-left: 20px;
@@ -13,4 +15,7 @@ div {
 
 #transformado {
   transform: rotateZ(180deg);
+}
+#transformado {
+  transform: rotateZ(50deg);
 }
